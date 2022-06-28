@@ -2,8 +2,7 @@
 ## Analisis US Movie Rilis Tahun 2008 - 2021
 
 ### Arin Kistia Nugraeni
-### 1941720006
-### TI-3G / 06
+### 1941720006 / TI-3G / 06
 
 ### Source Dataset
 Dataset diambil dari Kaggle.com pada [link](https://www.kaggle.com/datasets/paritosh712/movies-list-of-all-american-movies-20082021) ini.
